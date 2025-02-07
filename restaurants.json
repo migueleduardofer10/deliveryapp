@@ -134,6 +134,33 @@
             "price":4.0
          }
       ]
+   },
+    {
+      "id":4,
+      "name":"Starbucks",
+      "logo":"https://logosenvector.com/logo/img/kfc-buenisimo-kentucky-fried-chicken-98.jpg",
+      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/99/44/8e/kfc-faxafeni.jpg?w=800&h=-1&s=1",
+      "rate":4.8,
+      "prod":[
+         {
+            "id":1,
+            "name":"Krunchy Promo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15113_15113_202410311725213264.jpg",
+            "price":3.0
+         },
+         {
+            "id":2,
+            "name":"Mega Promo - 8 piezas",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/MEGA%20PROMO%208PP_11858_202412200904531209.jpg",
+            "price":6.0
+         },
+         {
+            "id":3,
+            "name":"Wrap Combo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15059_15059_202409261340546658.jpg",
+            "price":4.0
+         }
+      ]
    }
   
 ]
