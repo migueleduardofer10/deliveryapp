@@ -1,1 +1,139 @@
 
+[
+   {
+      "id":1,
+      "name":"McDonald's",
+      "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwBVB7cC0qx5mzb9oUNqj2WgS01wt0zDZTg&s",
+      "img":"https://static.mercadonegro.pe/wp-content/uploads/2023/01/10130313/mcdonalds-crecimiento-2023.png",
+      "rate":4.8,
+      "prod":[
+         {
+            "id":1,
+            "name":"Big Mac",
+            "img":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXxAHcZ/200/200/original?country=pe",
+            "price":2.0
+         },
+         {
+            "id":2,
+            "name":"Cuarto de Libra con Queso",
+            "img":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXFprE1/200/200/original?country=pe",
+            "price":3.0
+         },
+         {
+            "id":3,
+            "name":"Sándwich McPollo",
+            "img":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kaX5lPG7/200/200/original?country=pe",
+            "price":4.0
+         }
+      ]
+   },
+   {
+      "id":2,
+      "name":"KFC",
+      "logo":"https://logosenvector.com/logo/img/kfc-buenisimo-kentucky-fried-chicken-98.jpg",
+      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/99/44/8e/kfc-faxafeni.jpg?w=800&h=-1&s=1",
+      "rate":4.4,
+      "prod":[
+         {
+            "id":1,
+            "name":"Krunchy Promo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15113_15113_202410311725213264.jpg",
+            "price":3.0
+         },
+         {
+            "id":2,
+            "name":"Mega Promo - 8 piezas",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/MEGA%20PROMO%208PP_11858_202412200904531209.jpg",
+            "price":6.0
+         },
+         {
+            "id":3,
+            "name":"Wrap Combo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15059_15059_202409261340546658.jpg",
+            "price":4.0
+         }
+      ]
+   },
+   {
+      "id":3,
+      "name":"POPEYE",
+      "logo":"https://logosenvector.com/logo/img/kfc-buenisimo-kentucky-fried-chicken-98.jpg",
+      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/99/44/8e/kfc-faxafeni.jpg?w=800&h=-1&s=1",
+      "rate":4.8,
+      "prod":[
+         {
+            "id":1,
+            "name":"Krunchy Promo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15113_15113_202410311725213264.jpg",
+            "price":3.0
+         },
+         {
+            "id":2,
+            "name":"Mega Promo - 8 piezas",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/MEGA%20PROMO%208PP_11858_202412200904531209.jpg",
+            "price":6.0
+         },
+         {
+            "id":3,
+            "name":"Wrap Combo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15059_15059_202409261340546658.jpg",
+            "price":4.0
+         }
+      ]
+   },
+  {
+      "id":4,
+      "name":"La Italiana",
+      "logo":"https://logosenvector.com/logo/img/kfc-buenisimo-kentucky-fried-chicken-98.jpg",
+      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/99/44/8e/kfc-faxafeni.jpg?w=800&h=-1&s=1",
+      "rate":4.8,
+      "prod":[
+         {
+            "id":1,
+            "name":"Krunchy Promo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15113_15113_202410311725213264.jpg",
+            "price":3.0
+         },
+         {
+            "id":2,
+            "name":"Mega Promo - 8 piezas",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/MEGA%20PROMO%208PP_11858_202412200904531209.jpg",
+            "price":6.0
+         },
+         {
+            "id":3,
+            "name":"Wrap Combo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15059_15059_202409261340546658.jpg",
+            "price":4.0
+         }
+      ]
+   }, 
+   {
+      "id":4,
+      "name":"Pizza Hut",
+      "logo":"https://logosenvector.com/logo/img/kfc-buenisimo-kentucky-fried-chicken-98.jpg",
+      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/99/44/8e/kfc-faxafeni.jpg?w=800&h=-1&s=1",
+      "rate":4.8,
+      "prod":[
+         {
+            "id":1,
+            "name":"Krunchy Promo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15113_15113_202410311725213264.jpg",
+            "price":3.0
+         },
+         {
+            "id":2,
+            "name":"Mega Promo - 8 piezas",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/MEGA%20PROMO%208PP_11858_202412200904531209.jpg",
+            "price":6.0
+         },
+         {
+            "id":3,
+            "name":"Wrap Combo",
+            "img":"https://cdn.tictuk.com/fbaba5c6-70cb-d548-0aa1-915f89e4a48c/ecommerce_delivery/15059_15059_202409261340546658.jpg",
+            "price":4.0
+         }
+      ]
+   }
+  
+]
